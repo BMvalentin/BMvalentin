@@ -1,28 +1,26 @@
-<!-- Header con degradé -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:3b3b3b&height=200&section=header&text=VALENTÍN%20MÉNDEZ&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Analista%20de%20Sistemas&descAlignY=62&descSize=18" />
+<img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:2e1a4d&height=210&section=header&text=VALENT%C3%8DN%20M%C3%89NDEZ&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Analista%20de%20Sistemas&descAlignY=62&descSize=18" />
 
 <div align="center">
 
-<!-- Texto animado -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Data+Analyst;C%C3%B3digo+limpio+%C2%B7+Soluciones+escalables" />
+<img alt="typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=B68CFA&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;Data+Analyst;C%C3%B3digo+limpio+%C2%B7+Soluciones+escalables" />
 
-<br/>
+<br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-valentinmendez.vercel.app-0f0f0f?style=for-the-badge&logo=vercel&logoColor=white)](https://valentinmendez.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-valentinmendez-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentinmendez/)
-[![Email](https://img.shields.io/badge/EMAIL-contacto-0f0f0f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valentinmendez.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-valentinmendez.vercel.app-0b0b0d?style=for-the-badge&logo=vercel&logoColor=B68CFA&labelColor=0b0b0d&color=0b0b0d)](https://valentinmendez.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-valentinmendez-0b0b0d?style=for-the-badge&logo=linkedin&logoColor=B68CFA&labelColor=0b0b0d&color=0b0b0d)](https://www.linkedin.com/in/valentinmendez/)
+[![Email](https://img.shields.io/badge/EMAIL-contacto-0b0b0d?style=for-the-badge&logo=gmail&logoColor=B68CFA&labelColor=0b0b0d&color=0b0b0d)](mailto:valentinmendez.dev@gmail.com)
 
 </div>
 
----
+<br/>
 
-## SOBRE MÍ
+<img alt="SOBRE MÍ" src="https://img.shields.io/badge/SOBRE-M%C3%8D-B68CFA?style=for-the-badge&labelColor=0b0b0d&color=B68CFA" />
 
-Me enfoco en el diseño y desarrollo de soluciones escalables y en el análisis de datos, optimizando procesos de negocio mediante código limpio e insights estratégicos.
+*Me enfoco en el diseño y desarrollo de **soluciones escalables** y en el análisis de datos, optimizando procesos del negocio mediante código limpio e insights estratégicos.*
 
----
+<br/>
 
-## MIS PROYECTOS
+<img alt="MIS PROYECTOS" src="https://img.shields.io/badge/MIS-PROYECTOS-B68CFA?style=for-the-badge&labelColor=0b0b0d&color=B68CFA" />
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
@@ -31,33 +29,27 @@ Me enfoco en el diseño y desarrollo de soluciones escalables y en el análisis 
 | **[Lavadero Web](https://lavadero-web.vercel.app/)** | Sistema de reservas y flujo de trabajo con alertas por email | React · Node.js · PostgreSQL · Nodemailer |
 | **[Gourmet](https://foodie.logabyte.com.ar/)** | Gestión de pedidos para restaurantes con pagos, comandas y control de stock | React · Node.js · PostgreSQL · Nodemailer |
 
----
+<br/>
 
-## SERVICIOS
+<img alt="MIS SERVICIOS" src="https://img.shields.io/badge/MIS-SERVICIOS-B68CFA?style=for-the-badge&labelColor=0b0b0d&color=B68CFA" />
 
 - **Desarrollo de Software:** aplicaciones web interactivas y escalables.
 - **Arquitectura & Backend:** bases de datos relacionales y servidores robustos.
 - **Análisis de Datos & BI:** modelado, pipelines ETL y dashboards dinámicos.
 
----
+<br/>
 
-## STACK TÉCNICO
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,prisma,postgres,mysql,git,github,vercel&theme=dark" />
-
-</div>
-
----
-
-## ESTADÍSTICAS
+<img alt="STACK TÉCNICO" src="https://img.shields.io/badge/STACK-T%C3%89CNICO-B68CFA?style=for-the-badge&labelColor=0b0b0d&color=B68CFA" />
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BMvalentin&show_icons=true&theme=transparent&title_color=ffffff&text_color=bdbdbd&icon_color=ffffff&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BMvalentin&layout=compact&theme=transparent&title_color=ffffff&text_color=bdbdbd&hide_border=true" />
+<img alt="stack" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,prisma,postgres,mysql,git,github,vercel&theme=dark" />
+
+<br/><br/>
+
+<img alt="stats" height="170" src="https://github-readme-stats.vercel.app/api?username=BMvalentin&show_icons=true&hide_border=true&bg_color=0b0b0d&title_color=B68CFA&icon_color=B68CFA&text_color=e5e5e5" />
+<img alt="top langs" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BMvalentin&layout=compact&hide_border=true&bg_color=0b0b0d&title_color=B68CFA&text_color=e5e5e5" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b3b3b,100:0f0f0f&height=100&section=footer" />
+<img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1a4d,100:050505&height=100&section=footer" />
