@@ -9,13 +9,13 @@
 
 <br/>
 
-<img src="./assets/h-sobre-mi.svg" alt="Sobre mí" height="52"/>
+<img src="./assets/h-sobre-mi.svg" alt="Sobre mí" height="60"/>
 
 Me enfoco en el diseño y desarrollo de **soluciones escalables** y en el análisis de datos, optimizando procesos del negocio mediante código limpio e insights estratégicos.
 
 <img src="./assets/divider.svg" alt="" width="100%"/>
 
-<img src="./assets/h-proyectos.svg" alt="Mis proyectos" height="52"/>
+<img src="./assets/h-proyectos.svg" alt="Mis proyectos" height="60"/>
 
 <table>
   <tr>
@@ -54,7 +54,7 @@ Me enfoco en el diseño y desarrollo de **soluciones escalables** y en el análi
 
 <img src="./assets/divider.svg" alt="" width="100%"/>
 
-<img src="./assets/h-servicios.svg" alt="Mis servicios" height="52"/>
+<img src="./assets/h-servicios.svg" alt="Mis servicios" height="60"/>
 
 <table>
   <tr>
@@ -75,7 +75,7 @@ Me enfoco en el diseño y desarrollo de **soluciones escalables** y en el análi
 
 <img src="./assets/divider.svg" alt="" width="100%"/>
 
-<img src="./assets/h-stack.svg" alt="Stack técnico" height="52"/>
+<img src="./assets/h-stack.svg" alt="Stack técnico" height="60"/>
 
 <p align="center">
   <sub><b>FRONTEND</b></sub><br/>
@@ -92,7 +92,7 @@ Me enfoco en el diseño y desarrollo de **soluciones escalables** y en el análi
 
 <img src="./assets/divider.svg" alt="" width="100%"/>
 
-<img src="./assets/h-contacto.svg" alt="Trabajemos juntos" height="52"/>
+<img src="./assets/h-contacto.svg" alt="Trabajemos juntos" height="60"/>
 
 ¿Tenés una idea o un proceso para ordenar? Escribime y lo vemos.
 

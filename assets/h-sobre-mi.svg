@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 84" width="560" height="84" role="img" aria-label="Sobre mí">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 100" width="480" height="100" role="img" aria-label="Sobre mí">
   <defs>
-    <filter id="g" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="g" x="-30%" y="-60%" width="160%" height="220%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
     <linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#B68CFA"/><stop offset="1" stop-color="#7C4DFF"/></linearGradient>
   </defs>
-  <text x="2" y="50" font-family="'Arial Black','Helvetica Neue',Arial,sans-serif" font-weight="900" font-style="italic" font-size="44">
+  <text x="24" y="60" font-family="'Arial Black','Helvetica Neue',Arial,sans-serif" font-weight="900" font-style="italic" font-size="44">
     <tspan fill="#FFFFFF">SOBRE </tspan><tspan fill="#B68CFA" filter="url(#g)">MÍ</tspan>
   </text>
-  <rect x="4" y="66" width="54" height="5" rx="2.5" fill="url(#bar)"/>
+  <rect x="26" y="78" width="54" height="5" rx="2.5" fill="url(#bar)"/>
 </svg>
